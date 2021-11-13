@@ -18,3 +18,10 @@
 ## Education
 - École 42 10.2020 to present - C, C++, Unix
 - DSTU - 2020 - Automation of technological processes
+
+## Projects
+
+#### [Minishell](https://github.com/yaksaer/minishell)
+#### [Cub3D](https://github.com/yaksaer/cub3D)
+#### [Philosophers](https://github.com/yaksaer/philosophers)
+#### [Inception](https://github.com/yaksaer/Inception)
